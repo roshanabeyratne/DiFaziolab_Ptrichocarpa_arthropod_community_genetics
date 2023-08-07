@@ -7,7 +7,7 @@ This repository contains Narrow-sense heritability estimation for arthropod comm
 
 Genetic underpinnings of arthropod community distributions in Populus trichocarpa
 
-Sandra J. Simon1*, Anna Furches2,5, Hari Chhetri1,6, Luke Evans3, Piet Jones5, Gina Wimp4,David Macaya-Sanz1, Daniel Jacobson2,5, Timothy J. Tschaplinski2, Gerald A. Tuskan2, and Stephen. P. DiFazio1
+Sandra J. Simon1*, Anna Furches2, Hari Chhetri1, Luke Evans3, Piet Jones5, Gina Wimp4, David Macaya-Sanz1, Daniel Jacobson2,5, Timothy J. Tschaplinski2, Gerald A. Tuskan2, and Stephen. P. DiFazio1
 
 1 Department of Biology, West Virginia University, Morgantown, WV 26506,
 2 Biosciences Division and Center for Bioenergy Innovation, Oak Ridge National Laboratory, Oak Ridge TN 37831,
